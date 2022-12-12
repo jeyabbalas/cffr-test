@@ -1,0 +1,34 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: If you use this software, please cite the paper below.
+title: My first repo
+authors:
+- family-names: Doe
+  given-names: John
+preferred-citation:
+  type: article
+  title: Attention is all you need
+  authors:
+  - family-names: Vaswani
+    given-names: Ashish
+  - family-names: Shazeer
+    given-names: Noam
+  - family-names: Parmar
+    given-names: Niki
+  - family-names: Uszkoreit
+    given-names: Jakob
+  - family-names: Jones
+    given-names: Llion
+  - family-names: Gomez
+    given-names: Aidan N
+  - family-names: Kaiser
+    given-names: Lukasz
+  - family-names: Polosukhin
+    given-names: Illia
+  journal: Advances in neural information processing systems
+  volume: '30'
+  year: '2017'
