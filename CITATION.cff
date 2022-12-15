@@ -4,31 +4,35 @@
 # -----------------------------------------------------------
  
 cff-version: 1.2.0
-message: If you use this software, please cite the paper below.
-title: My first repo
+message: If you use this project, please cite the paper below.
+title: A demo project for the FAIR GitHub workshop.
 authors:
-- family-names: Doe
-  given-names: John
+- family-names: Balasubramanian
+  given-names: Jeya Balaji
 preferred-citation:
   type: article
-  title: Attention is all you need
+  title: Moving towards FAIR practices in epidemiological research
   authors:
-  - family-names: Vaswani
-    given-names: Ashish
-  - family-names: Shazeer
-    given-names: Noam
-  - family-names: Parmar
-    given-names: Niki
-  - family-names: Uszkoreit
-    given-names: Jakob
-  - family-names: Jones
-    given-names: Llion
-  - family-names: Gomez
-    given-names: Aidan N
-  - family-names: Kaiser
-    given-names: Lukasz
-  - family-names: Polosukhin
-    given-names: Illia
-  journal: Advances in neural information processing systems
-  volume: '30'
-  year: '2017'
+  - family-names: Garcia-Closas
+    given-names: Montserrat
+  - family-names: Ahearn
+    given-names: Thomas U
+  - family-names: Gaudet
+    given-names: Mia M
+  - family-names: Hurson
+    given-names: Amber N
+  - family-names: Balasubramanian
+    given-names: Jeya Balaji
+  - family-names: Choudhury
+    given-names: Parichoy Pal
+  - family-names: Gerlanc
+    given-names: Nicole M
+  - family-names: Patel
+    given-names: Bhaumik
+  - family-names: Russ
+    given-names: Daniel
+  - family-names: Abubakar
+    given-names: Mustapha
+  - name: others
+  journal: arXiv preprint arXiv:2206.06159
+  year: '2022'
